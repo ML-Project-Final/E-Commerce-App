@@ -3,3 +3,10 @@ myapp/.vscode-server/*
 ML_model/model/
 myapp/node_modules/
 __pycache__
+
+# Datasets
+experiment/Industrial_and_Scientific_5.json.gz
+experiment/meta_Industrial_and_Scientific.json.gz
+
+# Experiments outputs
+/experiment/experiment_outputs
