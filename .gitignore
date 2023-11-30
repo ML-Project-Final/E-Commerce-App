@@ -1,0 +1,5 @@
+.vscode-server/
+myapp/.vscode-server/*
+ML_model/model/
+myapp/node_modules/
+__pycache__
